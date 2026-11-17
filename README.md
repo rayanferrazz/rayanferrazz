@@ -1,44 +1,192 @@
-<h1 align="left">Hi there! I'm Rayan and I'm a Full Stack Developer!</h1>
-
-###
-
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2FBE,100:BD93F9&height=200&section=header&text=Rayan%20Ferraz&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=e0d4ff" alt="Rayan Ferraz - Full Stack Developer" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=BD93F9&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Rayan+Ferraz+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+perfil!;Full+Stack+Developer+%7C+Java+%7C+Spring+%7C+React;Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
+</a>
+
+<!-- Redes sociais -->
+<p>
   <a href="https://www.linkedin.com/in/rayan-ferraz-581449218/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/rayanferrazz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://github.com/rayanferrazz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<!-- Contadores dinâmicos -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rayanferrazz&label=Visitantes&color=BD93F9&style=for-the-badge" alt="Visitantes" />
+  <img src="https://img.shields.io/github/followers/rayanferrazz?label=Seguidores&style=for-the-badge&color=BD93F9&logo=github" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/rayanferrazz?label=Estrelas&style=for-the-badge&color=BD93F9&logo=github" alt="Estrelas" />
+</p>
+
 </div>
 
-###
+---
+
+## 👨‍💻 Sobre mim
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+- 🔭 Desenvolvendo projetos **full stack** com **Java + Spring Boot** e **React**
+- 🌱 Estudando **arquitetura de microsserviços**, **testes automatizados** e **cloud**
+- 🎓 Projetos acadêmicos e de extensão em desenvolvimento de software — **Unicarioca**
+- 💬 Me pergunte sobre **Java, Spring, React, Python, SQL e Git**
+- 🤝 Aberto a colaborações em projetos open source
+- ⚡ Curiosidade: gosto de transformar ideias em aplicações que resolvem problemas reais
+
+    </td>
+    <td width="45%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Developer" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanferrazz2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+
+**Front-end**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+
+**Banco de Dados & Ferramentas**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+## 📊 Minhas estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rayanferrazz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanferrazz&layout=compact&langs_count=8&theme=dracula&hide_border=true&locale=pt-br&size_weight=0.5&count_weight=0.5" alt="Linguagens mais usadas" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rayanferrazz&theme=dracula&hide_border=true&locale=pt_BR&card_width=720" alt="Sequência de contribuições" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayanferrazz&theme=dracula&hide_border=true&area=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%A3o" alt="Gráfico de atividade" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rayanferrazz&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Troféus do GitHub" />
+
 </div>
 
-###
+---
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+| Projeto | Descrição | Stack |
+| :------ | :-------- | :---- |
+| [**TRABALHO-FRONT-END**](https://github.com/rayanferrazz/TRABALHO-FRONT-END) | Organizador de tarefas full stack com autenticação JWT | `FastAPI` `SQLite` `JavaScript` |
+| [**ProjetoFinalAPIRestful**](https://github.com/rayanferrazz/ProjetoFinalAPIRestful) | API RESTful com operações CRUD completas | `Java` `Spring Boot` |
+| [**ProjetoFinalReactNative**](https://github.com/rayanferrazz/ProjetoFinalReactNative) | Aplicação mobile multiplataforma | `React Native` `TypeScript` |
+| [**ProjetoFinalPOO**](https://github.com/rayanferrazz/ProjetoFinalPOO) | Aplicação orientada a objetos | `Java` |
+
+</div>
+
+<details>
+  <summary><b>📂 Ver todos os repositórios</b> (clique para expandir)</summary>
+
+  <br/>
+
+  - [DesafioBackendPicpay](https://github.com/rayanferrazz/DesafioBackendPicpay) — desafio de backend
+  - [DesafioBackendUol](https://github.com/rayanferrazz/DesafioBackendUol) — desafio de backend
+  - [DesafioControleFluxoJava](https://github.com/rayanferrazz/DesafioControleFluxoJava) — exercício de lógica em Java
+  - [P1ReactNative](https://github.com/rayanferrazz/P1ReactNative) — projeto em React Native
+  - [ProjetoFinalBD](https://github.com/rayanferrazz/ProjetoFinalBD) — modelagem e consultas de banco de dados
+  - [ProjetoFinalFrontEnd](https://github.com/rayanferrazz/ProjetoFinalFrontEnd) — interface web responsiva
+  - [ProjetoFinalPortugol](https://github.com/rayanferrazz/ProjetoFinalPortugol) — algoritmos em Portugol
+  - [ProjetoJavaRocketseat](https://github.com/rayanferrazz/ProjetoJavaRocketseat) — trilha de estudos em Java
+
+  <br/>
+
+  <a href="https://github.com/rayanferrazz?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
+  </a>
+
+</details>
+
+---
+
+## 🐍 Contribuições em movimento
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayanferrazz/rayanferrazz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayanferrazz/rayanferrazz/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha animada das contribuições" src="https://raw.githubusercontent.com/rayanferrazz/rayanferrazz/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💭 Frase do dia
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Frase aleatória de programação" />
+
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rayan-ferraz-581449218/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/rayanferrazz/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/rayanferrazz" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<i>“Primeiro resolva o problema, depois escreva o código.”</i> 💜
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,50:7B2FBE,100:4B0082&height=120&section=footer" alt="footer" />
