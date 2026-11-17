@@ -39,7 +39,8 @@
 - 🔭 Desenvolvendo projetos **full stack** com **Java + Spring Boot** e **React**
 - 🌱 Estudando **arquitetura de microsserviços**, **testes automatizados** e **cloud**
 - 🎓 Projetos acadêmicos e de extensão em desenvolvimento de software — **Unicarioca**
-- 💬 Me pergunte sobre **Java, Spring, React, Python, SQL e Git**
+- 💬 Me pergunte sobre **Java, Spring, Node.js, React, Python, SQL e Git**
+- 🤖 Uso **IA no dia a dia** (ChatGPT, Claude, Gemini e Copilot) para acelerar estudos e código
 - 🤝 Aberto a colaborações em projetos open source
 - ⚡ Curiosidade: gosto de transformar ideias em aplicações que resolvem problemas reais
 
@@ -61,7 +62,8 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/jCompany-1B6CA8?style=for-the-badge&logo=openjdk&logoColor=white" alt="jCompany" />
 
 **Front-end**
 
@@ -76,10 +78,15 @@
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+**Inteligência Artificial**
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 
 </div>
 
