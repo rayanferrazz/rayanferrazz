@@ -91,29 +91,6 @@
 
 ---
 
-## 📊 Minhas estatísticas
-
-<div align="center">
-
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayanferrazz&theme=dracula" alt="Resumo do perfil no GitHub" />
-
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rayanferrazz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub" />
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rayanferrazz&layout=compact&langs_count=8&theme=dracula&hide_border=true&locale=pt-br&size_weight=0.5&count_weight=0.5" alt="Linguagens mais usadas" />
-
-<br/><br/>
-
-<img width="96%" src="https://streak-stats.demolab.com?user=rayanferrazz&theme=dracula&hide_border=true&locale=pt_BR&card_width=760" alt="Sequência de contribuições" />
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayanferrazz&theme=dracula&hide_border=true&area=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%A3o" alt="Gráfico de atividade" />
-
-</div>
-
----
-
 ## 🚀 Projetos em destaque
 
 <div align="center">
