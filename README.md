@@ -40,7 +40,7 @@
 - 🌱 Estudando **arquitetura de microsserviços**, **testes automatizados** e **cloud**
 - 🎓 Projetos acadêmicos e de extensão em desenvolvimento de software — **Unicarioca**
 - 💬 Me pergunte sobre **Java, Spring, Node.js, React, Python, SQL e Git**
-- 🤖 Uso **IA no dia a dia** (ChatGPT, Claude, Gemini e Copilot) para acelerar estudos e código
+- 🤖 Uso **IA no dia a dia** (ChatGPT, Claude e Gemini) para acelerar estudos e código
 - 🤝 Aberto a colaborações em projetos open source
 - ⚡ Curiosidade: gosto de transformar ideias em aplicações que resolvem problemas reais
 
@@ -83,10 +83,9 @@
 
 **Inteligência Artificial**
 
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 
 </div>
 
@@ -96,20 +95,20 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rayanferrazz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanferrazz&layout=compact&langs_count=8&theme=dracula&hide_border=true&locale=pt-br&size_weight=0.5&count_weight=0.5" alt="Linguagens mais usadas" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayanferrazz&theme=dracula" alt="Resumo do perfil no GitHub" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rayanferrazz&theme=dracula&hide_border=true&locale=pt_BR&card_width=720" alt="Sequência de contribuições" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rayanferrazz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rayanferrazz&layout=compact&langs_count=8&theme=dracula&hide_border=true&locale=pt-br&size_weight=0.5&count_weight=0.5" alt="Linguagens mais usadas" />
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayanferrazz&theme=dracula&hide_border=true&area=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%A3o" alt="Gráfico de atividade" />
+<img width="96%" src="https://streak-stats.demolab.com?user=rayanferrazz&theme=dracula&hide_border=true&locale=pt_BR&card_width=760" alt="Sequência de contribuições" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rayanferrazz&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Troféus do GitHub" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayanferrazz&theme=dracula&hide_border=true&area=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%A3o" alt="Gráfico de atividade" />
 
 </div>
 
