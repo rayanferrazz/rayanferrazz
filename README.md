@@ -1,6 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2FBE,100:BD93F9&height=200&section=header&text=Rayan%20Ferraz&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=e0d4ff" alt="Rayan Ferraz - Full Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2FBE,100:BD93F9&height=180&section=header" alt="Header" />
+
+<br/>
+
+<img src="https://github.com/rayanferrazz.png?size=200" width="150" height="150" style="border-radius:50%;border:3px solid #BD93F9" alt="Foto de perfil de Rayan Ferraz" />
+
+<h1>
+  Rayan Ferraz
+  <a href="https://www.linkedin.com/in/rayan-ferraz-581449218/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26" style="vertical-align:middle" alt="LinkedIn" />
+  </a>
+</h1>
+
+<p><b>Full Stack Developer</b> • Java • Spring • React</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=BD93F9&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Rayan+Ferraz+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+perfil!;Full+Stack+Developer+%7C+Java+%7C+Spring+%7C+React;Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
@@ -46,7 +59,11 @@
 
     </td>
     <td width="45%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Developer" />
+      <img src="https://github.com/rayanferrazz.png?size=400" width="260" style="border-radius:20px;border:3px solid #BD93F9" alt="Rayan Ferraz" />
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/rayan-ferraz-581449218/" target="_blank">
+        <img src="https://img.shields.io/badge/Vamos%20nos%20conectar!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
     </td>
   </tr>
 </table>
@@ -80,14 +97,15 @@
 
 **Banco de Dados & Ferramentas**
 
-<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" alt="SQL" />
-<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge" alt="NoSQL" />
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 **Inteligência Artificial**
 
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 
